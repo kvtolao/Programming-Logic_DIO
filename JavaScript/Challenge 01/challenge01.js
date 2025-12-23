@@ -1,4 +1,4 @@
-// DESAFIO - CLASSIFICADOR DE NÍVEL DE HERÓI
+// DESAFIO 01 - CLASSIFICADOR DE NÍVEL DE HERÓI
 
 let nomeHeroi = "Artemis";
 let xpHeroi = 8350;
