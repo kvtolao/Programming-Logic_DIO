@@ -10,7 +10,6 @@ class Heroi {
     atacar() {
         let ataque = "";
 
-        // Estrutura de decisão para definir o ataque conforme o tipo
         if (this.tipo === "mago") {
             ataque = "magia";
         } else if (this.tipo === "guerreiro") {
